@@ -27,6 +27,7 @@
  .idea/modules
  *.iml
  *.ipr
+ *.xml
 
 # IntelliJ
 out/
